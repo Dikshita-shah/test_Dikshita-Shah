@@ -1,0 +1,8 @@
+single integer
+in this code we have to find a single integer.in array every element or no. is given more then one time rather ten only one no. is given at sigle time
+we are applying here loop concept(if-else)
+if (int i<=1)
+then print i is a single digit
+break;
+else (int i>2)
+then it is an more then one time  repit digit
